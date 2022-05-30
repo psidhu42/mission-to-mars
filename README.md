@@ -10,9 +10,22 @@ Scrape data about Mars and create a web app to host it.
 
  ## Bootstrap Components
 
-Changed Button Color
+### Changed Button Color
 
-!["Green Button"](https://github.com/psidhu42/surfs-up/blob/main/resources/june_temps.PNG)
+!["Green Button"](https://github.com/psidhu42/mission-to-mars/blob/main/resources/green_scrape_button.PNG)
 
-!["Green Button Code"](https://github.com/psidhu42/surfs-up/blob/main/resources/dec_temps.PNG)
+### Code for Button Component
 
+Notice below, 'btn btn-primary btn-lg' was changed to 'btn btn-success btn-lg' at line 19.
+
+!["Green Button Code"](https://github.com/psidhu42/mission-to-mars/blob/main/resources/green_scrape_button_code.PNG)
+
+### Round Hemisphere Image Crop
+
+!["Round Hemisphere Image"](https://github.com/psidhu42/mission-to-mars/blob/main/resources/round_mars_hemis.PNG)
+
+### Code for Round Image
+
+Notice below, added 'class="img-circle">' to end of line 66.
+
+!["Round Hemisphere Image Code"](https://github.com/psidhu42/mission-to-mars/blob/main/resources/round_mars_hemis_code.PNG)
