@@ -12,7 +12,7 @@ Use BeautifulSoup and Splinter to scrape data about Mars from various websites, 
 
 The image below shows web app working in mobile view.
 
-!["Mobile View"](https://github.com/psidhu42/mission-to-mars/blob/main/resources/green_scrape_button.PNG)
+!["Mobile View"](https://github.com/psidhu42/mission-to-mars/blob/main/resources/mobile_responsive.PNG)
 
 ## Bootstrap Components
 
